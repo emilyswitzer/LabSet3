@@ -1,4 +1,4 @@
-public class Memory extends Computer {
+public class Memory {
 
     private String typeofMem;
     private int sizeofMem;
