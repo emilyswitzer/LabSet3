@@ -9,8 +9,7 @@ import java.util.ArrayList;
                 double balance;
                 int tax, accNum;
                 String name, address;
-                boolean checkBook;
-
+              
                 int size = Integer.parseInt(JOptionPane.showInputDialog("Enter number of Savings Accounts you wish to enter"));
 
                 for (int i = 0; i < size; i++) {
